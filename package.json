@@ -1,5 +1,5 @@
 {
-  "name": "peerflix-server",
+  "name": "fuflix-server",
   "version": "0.1.3",
   "author": "Aliaksei Sapach <dreamsonic@tut.by>",
   "description": "Streaming torrent client for node.js with web ui.",
@@ -13,14 +13,9 @@
   "main": "./server/bin.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/asapach/peerflix-server.git"
+    "url": "https://github.com/asapach/fuflix-server.git"
   },
   "keywords": [
-    "bittorrent",
-    "torrent",
-    "stream",
-    "peerflix",
-    "server",
     "web"
   ],
   "dependencies": {
